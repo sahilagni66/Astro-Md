@@ -2,7 +2,7 @@
 <p align="center"> Introducing Astro_Md, It is designed to Enhance your Whatsapp Daily Usage. </p>
 
 <p align="center">
-    <img alt="Suhail docs" src="https://fidgety-header.000webhostapp.com/_208c5944-7922-4286-87fd-90d89f1400e3.jfif">
+    <img alt="Astro docs" src="https://fidgety-header.000webhostapp.com/_208c5944-7922-4286-87fd-90d89f1400e3.jfif">
 </p>
 
 ---
@@ -13,10 +13,14 @@
  
 ## Deployment Methods
 ---
-1.  ***Get `SESSION ID` by [`PAIRING CODE`](https://replit.com/@Dannnyy0/ASTROMDPairingCode?=v1) or [`SCAN QR`](https://replit.com/@Dannnyy0/ASTRO-MD-SCAN-QR) code. And then `Go-to Whatapp>Three dots>Linked Devices`***
-2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/)***
-3.  ***Click [`FORK`](https://github.com/Dannnyy0/Astro-Md/fork) and `Star ⭐ Repository` if you Like the Bot.***
-4.  ## Deploy FREE on `Github Codespaces`
+1.  ## Get `SESSION ID`
+   By [`PAIRING CODE`](https://replit.com/@Dannnyy0/ASTROMDPairingCode?=v1) 
+   OR
+   [`SCAN QR`](https://replit.com/@Dannnyy0/ASTRO-MD-SCAN-QR) code. And then `Go-to Whatapp>Three dots>Linked Devices` ##
+3.  ## Get Mongodb_URI from
+[`Mongodb site`](https://www.mongodb.com/) ##
+4.  ## Click [`FORK`](https://github.com/Dannnyy0/Astro-Md/fork) and `Star Repository` if you Like the Bot. ##
+5.  ## Deploy FREE on `Github Codespaces`
    1. Copy and go the link below, and choos your repo
    ```
    https://github.com/codespaces/new
