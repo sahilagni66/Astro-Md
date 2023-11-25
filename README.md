@@ -16,8 +16,29 @@
 1.  ***Get `SESSION ID` by [`PAIRING CODE`](https://replit.com/@Dannnyy0/ASTROMDPairingCode?=v1) or [`SCAN QR`](https://replit.com/@Dannnyy0/ASTRO-MD-SCAN-QR) code. And then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/)***
 3.  ***Click [`FORK`](https://github.com/Dannnyy0/Astro-Md/fork) and `Star ⭐ Repository` if you Like the Bot.***
-4.  ***Deploy FREE on `Codespace,`***
-5.  ## Deploy on Heroku [`Click Here`](https://dashboard.heroku.com/new?template=https://github.com/Dannnyy0/Astro-Md)
+4.  ## Deploy FREE on `Github Codespaces`
+   1. Copy and go the link below, and choos your repo
+   ```
+   https://github.com/codespaces/new
+   ```
+   2. Leave the Branch on Main *Default*
+   3. Select your preferred Region
+   4. Select your Preferred Cpu Cores *I recommend 4-cores for faster Installation*
+   5. After the terminal has installed the required files automatically, type this on the terminal
+      ```
+      npm
+      yarn check
+      ```
+   6. Then once that's done type any of the following below.
+      ```
+      npm start
+      ```
+      OR
+      ```
+      yarn start
+      ```
+      ##
+8.  ## Deploy on Heroku [`Click Here`](https://dashboard.heroku.com/new?template=https://github.com/Dannnyy0/Astro-Md)
    -To Delpoy on Heroku
    1. Click the link Above then fill in the Vars
       ```
