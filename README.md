@@ -16,11 +16,14 @@
 1.  ## Get `SESSION ID`
    By [`PAIRING CODE`](https://replit.com/@Dannnyy0/ASTROMDPairingCode?=v1) 
    OR
-   [`SCAN QR`](https://replit.com/@Dannnyy0/ASTRO-MD-SCAN-QR) code. And then `Go-to Whatapp>Three dots>Linked Devices` ##
-3.  ## Get Mongodb_URI from
-[`Mongodb site`](https://www.mongodb.com/) ##
-4.  ## Click [`FORK`](https://github.com/Dannnyy0/Astro-Md/fork) and `Star Repository` if you Like the Bot. ##
-5.  ## Deploy FREE on `Github Codespaces`
+   [`SCAN QR`](https://replit.com/@Dannnyy0/ASTRO-MD-SCAN-QR) code. And then `Go-to Whatapp>Three dots>Linked Devices`
+   ##
+2.  ## Get Mongodb_URI from
+[`Mongodb site`](https://www.mongodb.com/)
+##
+3.  ## Click [`FORK`](https://github.com/Dannnyy0/Astro-Md/fork) and `Star Repository` if you Like the Bot.
+  ##
+4.  ## Deploy FREE on `Github Codespaces`
    1. Copy and go the link below, and choos your repo
    ```
    https://github.com/codespaces/new
@@ -42,7 +45,7 @@
       yarn start
       ```
       ##
-8.  ## Deploy on Heroku [`Click Here`](https://dashboard.heroku.com/new?template=https://github.com/Dannnyy0/Astro-Md)
+5.  ## Deploy on Heroku [`Click Here`](https://dashboard.heroku.com/new?template=https://github.com/Dannnyy0/Astro-Md)
    -To Delpoy on Heroku
    1. Click the link Above then fill in the Vars
       ```
