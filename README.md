@@ -31,11 +31,6 @@
       npm install
       ```
    3. Run it from run button
-      ```
-      run
-      connected to whatsapp
-      start started working
-      ```
    4. Done.
 ##
 7. ## Deploy on VPS or PC.
