@@ -1,0 +1,56 @@
+{
+  "__JSON__": true,
+  "AUTHOR": "Astro",
+  "theme": "Astro-Md",
+  "LANGUAGE": "English",
+  "LANGCODE": "en",
+  "STRINGS": { 
+      "updater": { 
+          "UPDATE": "Bot currently uptodate",
+          "NEW_UPDATE": "New Update Recived",
+          "UPDATED_LOCAL": "*Successfully Updated!*"
+      },  
+      "global": {     
+          "botName": "Astro-Md",
+          "body": "Advanced Bot", 
+          "greet2" : "Thanks To Sir Astro",
+          "pic1": "https://fidgety-header.000webhostapp.com/_208c5944-7922-4286-87fd-90d89f1400e3.jfif",
+          "pic2": "https://fidgety-header.000webhostapp.com/_208c5944-7922-4286-87fd-90d89f1400e3.jfif",
+          "pic3": "https://fidgety-header.000webhostapp.com/_208c5944-7922-4286-87fd-90d89f1400e3.jfif",
+          "pic4": "https://fidgety-header.000webhostapp.com/_208c5944-7922-4286-87fd-90d89f1400e3.jfif",
+          "pic5": "https://fidgety-header.000webhostapp.com/_208c5944-7922-4286-87fd-90d89f1400e3.jfif",
+          "pic6": "https://fidgety-header.000webhostapp.com/_208c5944-7922-4286-87fd-90d89f1400e3.jfif",
+          "pic7": "https://fidgety-header.000webhostapp.com/_208c5944-7922-4286-87fd-90d89f1400e3.jfif",
+          "greet" : "Believe it",
+          "dotbody" : "Astro made.",
+          "emojii" : "🍑", 
+          "promote": "Astro is Admin",
+          "pmallow": "*Hello, this is Astro.\n You have been blocked for spamming.",
+          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s).",
+          "permited": "Hello there*\n\nNow You are permitted by my owner to message me.", 
+          "revoked" : "*Hello there*\n\nYour request to message me has be denied.",
+          "demote": "DisAdmin",
+          "antlink": "Link Detected.\n*Link sender removed from group*",
+          "session": "\n*This is your session.json,keep it safe and store it properly*",
+          "mention": " Please tag My Owner",
+          "title": "Astro-Md",
+          "footer": "ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ʀᴇᴍᴀᴅᴇ ʙʏ ᴀꜱᴛʀᴏ",
+          "by": "ᴍᴀᴅᴇ ʙʏ: ᴀꜱᴛʀᴏ",
+          "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+          "success": "Done ✓",
+          "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
+          "couple_male": "*I'm pretty sure I can't live without being helped!*",
+          "couple_female": "*I'm pretty sure I can't live without being helped!*",
+          "admin": "ᴏɴʟʏ ᴀᴅᴍɪɴꜱ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ.⚠️!",
+          "botAdmin": "ᴍᴀᴋᴇ ᴛʜᴇ ʙᴏᴛ ᴀɴ ᴀᴅᴍɪɴ ꜰʀɪꜱᴛ.❗",
+          "owner": "ᴏɴʟʏ ᴛʜᴇ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇ ʙᴏᴛ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ⚠️",
+          "group": "ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴏɴʟʏ ᴡᴏʀᴋꜱ ɪɴ ɢʀᴏᴜᴘꜱ❗",
+          "private": "ᴏɴʟʏ ᴛʜᴇ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇ ʙᴏᴛ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ⚠️",
+          "bot": "ᴏɴʟʏ ᴛʜᴇ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇ ʙᴏᴛ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ⚠️",
+          "wait": "ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʀᴇᴏ̨ᴜᴇsᴛ✅"
+      },
+      "error": {
+          "text": "*ꜱᴇʀᴠᴇʀ ᴇʀʀᴏʀ, ᴇʀʀᴏʀ ᴡᴀꜱ ʀᴇᴘᴏʀᴛᴇᴅ ᴛᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ ɴᴏᴡ!*"
+      }
+  }
+}
