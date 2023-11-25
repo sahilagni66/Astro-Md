@@ -19,6 +19,24 @@
 4.  ***Deploy FREE on `Codespace,`***
 5.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Dannnyy0/Astro-Md)***
 6.  ***Deploy on [`Replit`](https://replit.com/github/Dannnyy0/Astro-Md)***
+ - To deploy on Replit
+   1. Clone the Repo
+      ```
+      create repl
+      import from github
+      ```
+   2. Install Dependecies in Shell
+      ```
+      yarn
+      npm install
+      ```
+   3. Run it from run button
+      ```
+      run
+      connected to whatsapp
+      start started working
+      ```
+   4. Done.
 ##
 7. ## Deploy on VPS or PC.
 - You need to Install git,ffmpeg,curl,nodejs,yarn with pm2 
@@ -65,7 +83,7 @@
       SESSION_ID = "SESSION-00-000-00"
       THUMB_IMAGE = "https://yourwebiste.com/image.png|.jpg|.jifi"
       port = 5000
-      email = "sam@secktor.live"
+      email = "soccerboys"
       global_url = "instagram.com"
       OWNER_NAME = "ASTRO"
       AUTO_REACTION = false
