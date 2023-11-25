@@ -18,7 +18,7 @@
 3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` if you Like the Bot.***
 4.  ***Deploy FREE on `Codespace,`***
 5.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Dannnyy0/Astro-Md)***
-6.  ***Deploy on [`Replit`](https://replit.com/github/Dannnyy0/Astro-Md)***
+6.  ## Deploy on [`Replit`](https://replit.com/github/Dannnyy0/Astro-Md)
  - To deploy on Replit
    1. Clone the Repo
       ```
