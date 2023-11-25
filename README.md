@@ -15,10 +15,40 @@
 ---
 1.  ***Get `SESSION ID` by [`PAIRING CODE`](https://replit.com/@Dannnyy0/ASTROMDPairingCode?=v1) or [`SCAN QR`](https://replit.com/@Dannnyy0/ASTRO-MD-SCAN-QR) code. And then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/)***
-3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` if you Like the Bot.***
+3.  ***Click [`FORK`](https://github.com/Dannnyy0/Astro-Md/fork) and `Star ⭐ Repository` if you Like the Bot.***
 4.  ***Deploy FREE on `Codespace,`***
-5.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Dannnyy0/Astro-Md)***
-6.  ## Deploy on [`Replit`](https://replit.com/github/Dannnyy0/Astro-Md)
+5.  ## Deploy on Heroku [`Click Here`](https://dashboard.heroku.com/new?template=https://github.com/Dannnyy0/Astro-Md)
+   -To Delpoy on Heroku
+   1. Click the link Above then fill in the Vars
+      ```
+      App name
+      Choose a region
+      AUTO_READ_STATUS
+      DISABLE_PM
+      ELEVENLAB_API_KEY
+      HEROKU_API_KEY ***Required***
+      HEROKU_APP_NAME
+      MODE ***REquired***
+      MONGODB_URI
+      MSGS_IN_LOG
+      OPENAI_API_KEY
+      OWNER_NAME
+      OWNER_NUMBER
+      PACK_AUTHER
+      PACK_NAME
+      PREFIX
+      READ_MESSAGE
+      REMOVE_BG_KEY
+      SESSION_ID ***Very Important***
+      USER_IMAGES
+      WAPRESENCE
+      ```
+   2.Then Click on Delpoy App (Button)
+   3. After that CLick on the Worker
+   4. Select the worker ```npm/start``` Dyno
+   5. Then bot has started
+   ##
+6.  ## Deploy on Replit [`Click Here`](https://replit.com/github/Dannnyy0/Astro-Md)
  - To deploy on Replit
    1. Clone the Repo
       ```
