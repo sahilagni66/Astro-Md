@@ -1,5 +1,5 @@
 {
-  "name": "Astro Md",
+  "name": "Felix Md",
   "description": "A Whatsapp bot built in NodeJs to make experience better.",
   "logo": "https://fidgety-header.000webhostapp.com/_208c5944-7922-4286-87fd-90d89f1400e3.jfif",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
     "description": "Name of Bot Owner",    
-    "value": "Astro",
+    "value": "Felix",
     "required" :true
   },  
   "HEROKU_API_KEY": {
@@ -52,7 +52,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-    "value": "923184474176"
+    "value": "919517641203"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here."
@@ -84,7 +84,7 @@
   },
   "MODE": {
     "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-    "value": "private"
+    "value": "public"
   },
   "PACK_NAME": {
     "description": "Put Sticker Pack_Name.",
